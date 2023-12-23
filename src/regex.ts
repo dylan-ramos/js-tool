@@ -16,10 +16,15 @@ const ip =
 const postCode = /[a-zA-Z 0-9-]{1,12}/
 
 const timeThh = /^((?:[01]\d)|(?:2[0-3]))$/
+
 const timeTmm = /^([0-5][0-9])$/
+
 const timeTss = /^([0-5][0-9])$/
+
 const timeThhmm = /^((?:[01]\d)|(?:2[0-3])):([0-5][0-9])$/
+
 const timeThhmmss = /^((?:[01]\d)|(?:2[0-3])):([0-5][0-9]):([0-5][0-9])$/
+
 const timeTmmss = /^([0-5][0-9]):([0-5][0-9])$/
 
 export {

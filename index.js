@@ -1,6 +1,6 @@
 'use strict'
 
-export * from './src/bool'
-export * from './src/number'
-export * from './src/regex'
-export * from './src/string'
+export * from './dist/bool'
+export * from './dist/number'
+export * from './dist/regex'
+export * from './dist/string'

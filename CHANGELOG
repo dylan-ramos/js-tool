@@ -1,4 +1,10 @@
 =============================================================
+v1.1.0 - 2023-12-23
+=============================================================
+
+- update: Migrate JavaScript files to TypeScript. The JS files have been converted to TS with type specifications and comments added for better maintainability. Also, the old '.babelrc' and '.eslintrc' files have been removed and a new '.eslintrc.cjs' file has been created to support the TS transition. Lastly, new 'index.d.ts' and 'tsconfig.json' files have been generated;
+
+=============================================================
 v1.0.0 - 2023-10-21
 =============================================================
 
